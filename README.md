@@ -1,5 +1,5 @@
 # uWebSockets_cmake
-A lovely tutorial for how to use uWebSockets with CMake in C++!
+A lovely tutorial for how to make the simplest C++ code working with uWebSockets and CMake!
 
 ## Setup
 In the root folder, clone and build the uWebSocket by following the commands below:
